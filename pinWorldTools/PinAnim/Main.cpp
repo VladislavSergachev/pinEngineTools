@@ -1,3 +1,5 @@
+/// Made by VladiSLAV (2021)
+
 /// TODO: SAVE/OPEN FILE DIALOG
 
 //#define CONVERT_FEAUTURE
