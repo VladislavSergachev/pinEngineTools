@@ -1,0 +1,1 @@
+PinANim utility for sprite animation made by VladiSLAV (2021)
